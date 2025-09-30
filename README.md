@@ -1,6 +1,6 @@
 
 ## My name is Jacob Toepfer
-
+I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in computer science with a minor in cybersecurity.
 
 
 
