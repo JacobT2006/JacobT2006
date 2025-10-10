@@ -1,7 +1,7 @@
 
 ## My name is Jacob Toepfer
 I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in computer science with a minor in cybersecurity.
-***
+
 #### Social Media 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/817819540502085634)
