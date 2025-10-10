@@ -25,4 +25,4 @@ I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in c
 
 #### Random
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]()
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.google.com/search?q=how+to+install+linux)
