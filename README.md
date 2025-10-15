@@ -3,7 +3,6 @@
 I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in computer science with a minor in cybersecurity.
 
 #### Social Media 
-
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/817819540502085634)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jatoepfer2006)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JacobT2006)
@@ -16,10 +15,4 @@ I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in c
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jacobtoepfer8399)
 
 #### Profiles
-
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199610946959)
-
-#### Random
-
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.homedepot.com/c/ah/how-to-install-a-window/9ba683603be9fa5395fab90cb0f04a1)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.google.com/search?q=how+to+install+linux)
