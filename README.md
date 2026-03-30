@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="windows_goat.webp" alt="GitHub Banner" />
+</p>
 
 ## My name is Jacob Toepfer
 I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in computer science with a minor in cybersecurity.
