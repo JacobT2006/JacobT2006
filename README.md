@@ -3,16 +3,62 @@
 I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in computer science with a minor in cybersecurity.
 
 #### Social Media 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/817819540502085634)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jatoepfer2006)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JacobT2006)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jatoepfer2006)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jacob-toepfer-27b952247)
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](https://snapchat.com/t/puFACQpz)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31fqoni3zpgfzfhayycy6u5hxw7e?si=9KqCupLfSaudH1EFBSJQuA)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@jacobtoepfer1)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/dinokiddo2006)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jacobtoepfer8399)
 
 #### Profiles
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199610946959)
+
+
+
+<div class="table-wrapper">
+    <table>
+        <tbody>
+            <!-- Row 1 -->
+            <tr>
+                <th class="section-header" colspan="3">Hardware</th>
+                <td class="icon-cell">
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" alt="iOS" title="iOS"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
+                  </td>
+            </tr>
+            <!-- Row 2 -->
+            <tr>
+                <th class="section-header" colspan="3">Languages</th>
+                <td class="icon-cell">
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
+                </td>  
+            </tr>
+            <!-- Row 3 -->
+            <tr>
+                <th class="section-header" colspan="3">Tools</th>
+                <td class="icon-cell">
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+                </td>
+            </tr>
+            <!-- Row 3 -->
+            <tr>
+                <th class="section-header" colspan="3">Project OS's</th>
+                <td class="icon-cell">
+                  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
+	                <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" alt="Linux Mint" title="Linux Mint"/>
+	                <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
