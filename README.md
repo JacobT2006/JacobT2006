@@ -50,7 +50,7 @@ I'm Jacob, a sophomore at the University of Wisconsin, Whitewater, majoring in c
                 <td class="icon-cell">
                   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 	                <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" alt="Linux Mint" title="Linux Mint"/>
-	                <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/>
+	                <a href="https://www.raspberrypi.com/software/operating-systems/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></a>
                 </td>
             </tr>
         </tbody>
